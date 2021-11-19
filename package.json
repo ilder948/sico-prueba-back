@@ -16,9 +16,9 @@
     "morgan": "^1.10.0",
     "sequelize": "^6.9.0",
     "tedious": "^14.0.0",
-    "dotenv": "^10.0.0",
-    "nodemon": "^2.0.15"
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
