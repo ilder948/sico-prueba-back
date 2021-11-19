@@ -29,6 +29,4 @@ EstudianteCurso.init({
     }
   );
 
-  
-
   module.exports = EstudianteCurso
