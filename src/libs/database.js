@@ -1,6 +1,7 @@
 const { Sequelize } = require("sequelize");
 const config = require("../config/index");
 
+
 const sequelize = new Sequelize(
   config.MSSQL_DATABASE,
   config.MSSQL_USER,
